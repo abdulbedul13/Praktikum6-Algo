@@ -5,7 +5,7 @@ Created on Tue Dec 28 19:23:44 2021
 @author: Abdullah
 """
 
-# Elemen kompetensi 1
+# ELEMEN KOMPETENSI 1
 print("MENGHITUNG JARAK TEMPUH GLBB")
 kecepatan_awal = int(input("Masukkan v0: "))
 waktu = int(input("Masukkan t: "))
