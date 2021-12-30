@@ -85,4 +85,4 @@ while True:
         print("TERIMA KASIH!")
         break
     else:
-        print("Pilih 1, 2, 3, 4 atau 5, 6 untuk keluar\n")
+        print("Pilih 1, 2, 3, 4, 5 atau 6 untuk keluar\n")
